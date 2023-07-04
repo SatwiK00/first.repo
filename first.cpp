@@ -2,6 +2,6 @@
 
 int main()
 {
-    std::cout<<"HELLLO SAVED IN GIT"<<std::endl;
+    std::cout<<"HELLLO "<<std::endl;
     return 0;
 }
